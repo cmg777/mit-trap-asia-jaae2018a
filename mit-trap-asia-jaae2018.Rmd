@@ -95,6 +95,15 @@ class: middle
 
 ---
 
+class: center, middle
+
+# Comments on the middle-income trap
+
+**Endogenous grouping of countries**
+
+**A beta-convergence framework for empirical testing **
+
+---
 # Hello World
 
 Install the **xaringan** package from [Github](https://github.com/yihui/xaringan):
