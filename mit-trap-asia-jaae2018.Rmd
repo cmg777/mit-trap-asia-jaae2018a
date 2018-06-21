@@ -2,7 +2,7 @@
 title: "Middle Income Traps and Premature Deindustrialization in Asia"
 subtitle: "Some Comments about U-shaped Relationships"
 author: "Carlos Mendez<br />https://carlos-mendez.rbind.io<br /><br />Kyushu University"
-date: "Prepared for the Annual Meeting of the Japanese Association of Applied Economics<br /><br />[Slides available at: https://bit.ly/jaae2018]"
+date: "Prepared for the Annual Meeting of the Japanese Association of Applied Economics<br /><br />[ Slides available at: https://bit.ly/jaae2018 ]"
 output:
   xaringan::moon_reader:
     css: ["default", "metropolis-fonts", "svm-xaringan-style.css"]
